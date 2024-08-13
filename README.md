@@ -1,4 +1,4 @@
 # pradeepbhusal-demo
 This is my first github repository.
 <br>
-Author-Pradeepbhusal
+Author-Pradeep(bhusal)
